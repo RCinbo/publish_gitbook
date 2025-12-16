@@ -1,0 +1,222 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grote grazers in beeld",
+    "section": "",
+    "text": "Een data-rapport over terreingebruik in Vlaamse natuurgebiedenGeschreven doorMarijke Thoonen , Instituut voor Natuur- en Bosonderzoek (INBO)Nagelezen doorRaïsa Carmen , Instituut voor Natuur- en Bosonderzoek (INBO)DOI!!! Missing flandersqmd.doi !!!ISSN1782-9054Verantwoordelijke uitgeverHilde EggermontHet INBO is het onafhankelijk onderzoeksinstituut van de Vlaamse overheid dat via toegepast wetenschappelijk onderzoek, data- en kennisontsluiting het biodiversiteitsbeleid en -beheer onderbouwt en evalueert.VestigingINBO Brussel, Herman Teirlinckgebouw, Havenlaan 88 bus 73, 1000 Brussel vlaanderen.be/inboWijze van citeren Thoonen, M.!!! Missing flandersqmd.year !!!Grote grazers in beeld. Een data-rapport over terreingebruik in Vlaamse natuurgebieden. Rapporten van het Instituut voor Natuur- en Bosonderzoek !!! Missing flandersqmd.year !!!!!! Missing flandersqmd.reportnr !!!Instituut voor Natuur- en Bosonderzoek, Brussel. DOI: !!! Missing flandersqmd.doi !!!Exporteer referentie alsBibTexRISCSL-JSON@TechReport{\n  author = {Thoonen, Marijke}\n  institution = {Instituut voor Natuur- en Bosonderzoek},\n  address = {INBO Brussel, Herman Teirlinckgebouw, Havenlaan 88 bus 73, 1000 Brussel},\n!!! Missing flandersqmd.year !!!!!! Missing flandersqmd.doi !!!  type = {techreport}\n}\nTY  - RPRT\nAU  - Thoonen, Marijke\nPB  - Instituut voor Natuur- en Bosonderzoek\nPP  - INBO Brussel, Herman Teirlinckgebouw, Havenlaan 88 bus 73, 1000 Brussel\nER  -\n{\n  \"type\":\"report\",\n  \"author\":[\n    {\n      \"family\":\"Thoonen\",\n      \"given\":\"Marijke\"\n    }\n  ]\n  \"publisher\":\" \"Instituut voor Natuur- en Bosonderzoek\",\n  \"publisher-place\":\"INBO Brussel, Herman Teirlinckgebouw, Havenlaan 88 bus 73, 1000 Brussel\",\n}\nONTWERP \n\nSamenvatting\nTO DO\nDummy reference to (R Core Team, 2025). Only remove after including other references or after removing the bibliography file referenties.md.\n\n\n\n\nR Core Team (2025). R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria. https://www.R-project.org/.\n\n\n\n\n  Thoonen, M. !!! Missing flandersqmd.year !!!  !!! Missing flandersqmd.doi !!!",
+    "crumbs": [
+      "Cover",
+      "Samenvatting"
+    ]
+  },
+  {
+    "objectID": "abstract.html",
+    "href": "abstract.html",
+    "title": "Abstract",
+    "section": "",
+    "text": "ONTWERP \n\n\n\n\nTO DO\n\n\n\n\n  Thoonen, M. !!! Missing flandersqmd.year !!!  !!! Missing flandersqmd.doi !!!",
+    "crumbs": [
+      "Cover",
+      "Abstract"
+    ]
+  },
+  {
+    "objectID": "aanbevelingen.html",
+    "href": "aanbevelingen.html",
+    "title": "Aanbevelingen voor het beleid",
+    "section": "",
+    "text": "ONTWERP \n\n\n\nTO DO\n\n\n\n\n\n\n\n\n  Thoonen, M. !!! Missing flandersqmd.year !!!  !!! Missing flandersqmd.doi !!!",
+    "crumbs": [
+      "Cover",
+      "Aanbevelingen voor het beleid"
+    ]
+  },
+  {
+    "objectID": "1_inleiding.html",
+    "href": "1_inleiding.html",
+    "title": "1  Inleiding",
+    "section": "",
+    "text": "1.1 Terreingebruik door grote grazers\nFiguur 1.1 toont het terreingebruik door grote grazers in Vlaanderen\nFiguur 1.1: Kaart van terreingebruik door grote grazers in Vlaanderen\nThoonen, M. !!! Missing flandersqmd.year !!!  !!! Missing flandersqmd.doi !!!",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Inleiding</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html",
+    "href": "2_resultaten.html",
+    "title": "2  Resultaten",
+    "section": "",
+    "text": "2.1 Boelaremeersen\nIn dit hoofdstuk tonen we de resultaten per gebied.\ntest\nThoonen, M. !!! Missing flandersqmd.year !!!  !!! Missing flandersqmd.doi !!!",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#boelaremeersen",
+    "href": "2_resultaten.html#boelaremeersen",
+    "title": "2  Resultaten",
+    "section": "",
+    "text": "2.1.1 Terreingebruik in Boelaremeersen\n\n\n\n\n\n\n\n\nFiguur 2.1: Luchtfoto van Boelaremeersen\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.2: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Boelaremeersen",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#bos-t-ename",
+    "href": "2_resultaten.html#bos-t-ename",
+    "title": "2  Resultaten",
+    "section": "2.2 Bos t ename",
+    "text": "2.2 Bos t ename\ntest\n\n2.2.1 Terreingebruik in Bos t ename\n\n\n\n\n\n\n\n\nFiguur 2.3: Luchtfoto van Bos t Ename\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.4: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Bos t Ename",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#demerbroeken",
+    "href": "2_resultaten.html#demerbroeken",
+    "title": "2  Resultaten",
+    "section": "2.3 Demerbroeken",
+    "text": "2.3 Demerbroeken\ntest\n\n2.3.1 Terreingebruik in Demerbroeken\n\n\n\n\n\n\n\n\nFiguur 2.5: Luchtfoto van Demerbroeken\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.6: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Demerbroeken",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#hochter-bampd",
+    "href": "2_resultaten.html#hochter-bampd",
+    "title": "2  Resultaten",
+    "section": "2.4 Hochter bampd",
+    "text": "2.4 Hochter bampd\ntest\n\n2.4.1 Terreingebruik in Hochter bampd\n\n\n\n\n\n\n\n\nFiguur 2.7: Luchtfoto van Hochter Bampd\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.8: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Hochter Bampd",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#hoge-kempen",
+    "href": "2_resultaten.html#hoge-kempen",
+    "title": "2  Resultaten",
+    "section": "2.5 Hoge kempen",
+    "text": "2.5 Hoge kempen\ntest\n\n2.5.1 Terreingebruik in Hoge kempen\n\n\n\n\n\n\n\n\nFiguur 2.9: Luchtfoto van Hoge Kempen\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.10: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Hoge Kempen",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#houtsaegerduinen",
+    "href": "2_resultaten.html#houtsaegerduinen",
+    "title": "2  Resultaten",
+    "section": "2.6 Houtsaegerduinen",
+    "text": "2.6 Houtsaegerduinen\nDe Houtsaegerduinen (90 ha, beheerd door ANB) zijn grotendeels gefixeerd en sterk verstruweeld. Sedert 1997 graast er jaarrond een kudde ezels (Cotentin Flamande) binnen een blok van 74 ha. Aanvankelijk werden 6 ezels geïntroduceerd. In 2020 graasden er 10 dieren en in de periode 2021 - 2023 groeide dit aan tot 25 dieren. Deze kudde geraakte jaarlijks gesplitst en omdat we de kudde maar met één tracker volgen, is het beeld dat we schetsen van het terreingebruik mogelijks onvolledig. Aanvankelijke doelstelling was het open maken van het struweel en uitbreiden van de verspreide duingraslandfragmenten. De ezelbegrazing blijkt daartoe onvoldoende. In 2018 werden daarom twee blokken met een gezamenlijke oppervlakte van 4,4 ha volledig machinaal ontstruweeld. Het nabeheer gebeurt door intensieve schapen- en geitenbegrazing binnen verplaatsbare flexi-netten. In 2024 betrof het 186 dieren: 23 geiten en 150 schapen. Aanvullend grazen deze dieren ook geherderd in andere zones van het gebied. De geherderde kudde tracken we niet, waardoor we de totale graasdruk niet kunnen inschatten.\n\n2.6.1 Terreingebruik in Houtsaegerduinen\n\n\n\n\n\n\n\n\nFiguur 2.11: Luchtfoto van Houtsaegerduinen\n\n\n\n\n\n\n\n\nOverzicht van de kuddes in de onderzochte graasblokken (diersoort, graasperiode, kuddegrootte, monitoring).\n\n\nKudde_code\nKalmthoutse heide\nGraasblok\nSerienummer\nJaar\nDiersoort\nRas\nGraasperiode\nKuddegrootte\nIngezet\nData\n\n\n\n\nHS_1\nHoutsaegerduinen\nNa\nAN795\n2020\nezel\nCotentin Flamande\njaarrond\n10\n0\n0\n\n\nHS_1\nHoutsaegerduinen\nNa\nAN795\n2021\nezel\nCotentin Flamande\njaarrond\n10\n1\n1\n\n\nHS_1\nHoutsaegerduinen\nNa\nAN795\n2022\nezel\nCotentin Flamande\njaarrond\n25\n1\n1\n\n\nHS_1\nHoutsaegerduinen\nNa\nAN795\n2023\nezel\nCotentin Flamande\njaarrond\n25\n1\n1\n\n\nHS_1\nHoutsaegerduinen\nNa\nAN795\n2024\nezel\nCotentin Flamande\njaarrond\n25\n1\n1\n\n\nHS_1\nHoutsaegerduinen\nNa\nAP513\n2024\nezel\nCotentin Flamande\njaarrond\n25\n1\n1\n\n\nHS_1\nHoutsaegerduinen\nNa\nDH970\n2025\nezel\nCotentin Flamande\njaarrond\n25\n1\nNa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncollar positions per biotope per season/species\n\n\n\n\n\n\n\n\n\n\n\n\nyear\nBiotoopgroep\nDiersoort\nWinter\nLente\nZomer\nHerfst\nall_year\n\n\n\n\n2021\nBebouwde gebieden\nezel\n0\n1\n9\n1\n11\n\n\n2021\nBossen en struwelen\nezel\n6\n646\n2656\n2337\n5645\n\n\n2021\nGraslanden\nezel\n0\n15\n17\n8\n40\n\n\n2021\nMoerassen\nezel\n0\n22\n193\n102\n317\n\n\n2021\nStrand en duinen\nezel\n0\n307\n1270\n748\n2325\n\n\n2022\nBebouwde gebieden\nezel\n8\n12\n9\n5\n34\n\n\n2022\nBossen en struwelen\nezel\n2494\n2591\n2583\n3015\n10683\n\n\n2022\nGraslanden\nezel\n16\n31\n20\n41\n108\n\n\n2022\nMoerassen\nezel\n45\n187\n370\n90\n692\n\n\n2022\nStrand en duinen\nezel\n682\n1360\n1147\n936\n4125\n\n\n2023\nBebouwde gebieden\nezel\n4\n5\n7\n1\n17\n\n\n2023\nBossen en struwelen\nezel\n1771\n2746\n2506\n990\n8013\n\n\n2023\nGraslanden\nezel\n8\n18\n11\n2\n39\n\n\n2023\nMoerassen\nezel\n16\n49\n116\n14\n195\n\n\n2023\nStrand en duinen\nezel\n619\n1284\n1003\n232\n3138\n\n\n2024\nBebouwde gebieden\nezel\n2\n0\n8\n0\n10\n\n\n2024\nBossen en struwelen\nezel\n311\n69\n2584\n5\n2969\n\n\n2024\nGraslanden\nezel\n3\n1\n14\n0\n18\n\n\n2024\nMoerassen\nezel\n5\n1\n239\n1\n246\n\n\n2024\nStrand en duinen\nezel\n135\n42\n1101\n9\n1287\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.12: Gebruik van biotopen.",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#kalmthoutse-heide",
+    "href": "2_resultaten.html#kalmthoutse-heide",
+    "title": "2  Resultaten",
+    "section": "2.7 Kalmthoutse heide",
+    "text": "2.7 Kalmthoutse heide\ntest\n\n2.7.1 Terreingebruik in Kalmthoutse heide\n\n\n\n\n\n\n\n\nFiguur 2.13: Luchtfoto van Kalmthoutse Heide\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.14: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Kalmthoutse Heide",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#maldegemveld",
+    "href": "2_resultaten.html#maldegemveld",
+    "title": "2  Resultaten",
+    "section": "2.8 Maldegemveld",
+    "text": "2.8 Maldegemveld\ntest\n\n2.8.1 Terreingebruik in Maldegemveld\n\n\n\n\n\n\n\n\nFiguur 2.15: Luchtfoto van Maldegemveld\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.16: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Maldegemveld",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#moenebroek",
+    "href": "2_resultaten.html#moenebroek",
+    "title": "2  Resultaten",
+    "section": "2.9 Moenebroek",
+    "text": "2.9 Moenebroek\ntest\n\n2.9.1 Terreingebruik in Moenebroek\n\n\n\n\n\n\n\n\nFiguur 2.17: Luchtfoto van Moenebroek\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.18: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Moenebroek",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#negenoord-kerkeweerd",
+    "href": "2_resultaten.html#negenoord-kerkeweerd",
+    "title": "2  Resultaten",
+    "section": "2.10 Negenoord kerkeweerd",
+    "text": "2.10 Negenoord kerkeweerd\ntest\n\n2.10.1 Terreingebruik in Negenoord kerkeweerd\n\n\n\n\n\n\n\n\nFiguur 2.19: Luchtfoto van Negenoord Kerkeweerd\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.20: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Negenoord Kerkeweerd",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#westhoek",
+    "href": "2_resultaten.html#westhoek",
+    "title": "2  Resultaten",
+    "section": "2.11 Westhoek",
+    "text": "2.11 Westhoek\nDe Westhoek (340 ha, beheerd door ANB) bestaat uit een complex van duinstruweel en -bos, droge duingraslanden, vochtige duinvalleien en stuivende duinen die in mozaïek voorkomen en samen zijn ingerasterd. Tijdens de tweede helft van de 20ste eeuw is het struweel sterk uitgebreid ten koste van de open duinhabitats. Stopzetting van het historisch gebruik als graasgebied is hiervan een belangrijke oorzaak. De voorbije decennia treedt ook een sterke fixatie op van stuivende duinen. De begrazing werd opgestart vanaf 1997 en heeft vandaag een noordelijk, een zuidelijk blok en oostelijk blok. Er worden zowel Konikpaarden, Schotse hooglandrunderen als Shetland pony’s ingeschaard en tijdelijk werd er ook begraasd door ezels.\nInitiële doelstelling van de begrazing was het aanpakken van vergrassing (vooral met duinriet), verruiging en verstruweling. Het overkoepelende beheer van bos, struweel, grasland en open duin richt zich op het behoud van biodiversiteit, herstel van verstuiving en ondersteuning van doelsoorten. Het begrazingsproject heeft als voornaamste doel het behoud en herstel van duinnatuur door gecontroleerde begrazing. Zo’n 50 ha truweel en bos werden, in verschillende fasen, ook machinaal verwijderd. Hiermee ontwikkelt zich in het gebied een zeer rijke vegetatiestructuur gaande van kaal zand tot bos. De grazers spelen hierin een cruciale rol. Toch blijken ze niet in staat om de verstruweling tegen te houden en blijft aanvullend machinaal beheer nodig om de kenmerkende open habitats in stand te houden.\nIn de Westhoek monitoren we het terreingebruik in twee begrazingsrasters: Westhoek Noord (81 ha) en Westhoek Zuid (54 ha) (zie figuur @). In het zuidelijke raster graasden in de periode 2021-2023 één kudde Shetland-pony’s van 4 dieren, één kudde Konik-paarden van 5 dieren en één kudde Schotse Hooglandrunderen van 6 dieren. In het noordelijk deel graasden in die periode twee kuddes Konik-paarden van 7 en 4 dieren. Westhoek Noord en Westhoek Zuid waren tot oktober 2023 enkel verbonden in de winterperiode. Vanaf dan werden de graasgebieden permanent verbonden. Tesamen begraasden 17 paarden, 4 Shetlandpony’s en 10 Schotse hooglandrunderen het ééngemaakte graasblok in 2024 en 2005. De deelkuddes paarden bleven bestaan.\nDit resulteert in een gemiddelde graasdruk van xx in WHN, xx in WHZ grootvee-eenheden per ha per jaar. Het gaat om circa xx graasdagen per hectare per jaar.\n\n2.11.1 Terreingebruik in Westhoek\n\n\n\n\n\n\n\n\nFiguur 2.21: Luchtfoto van Westhoek\n\n\n\n\n\n\n\n\nOverzicht van de kuddes in de onderzochte graasblokken (diersoort, graasperiode, kuddegrootte, monitoring).\n\n\nKudde_code\nKalmthoutse heide\nGraasblok\nSerienummer\nJaar\nDiersoort\nRas\nGraasperiode\nKuddegrootte\nIngezet\nData\n\n\n\n\nWH_1\nWesthoek\nzuid\nAN785\n2021\npony\nShetland\njaarrond\n5\n1\n1\n\n\nWH_3\nWesthoek\nnoord\nAN788\n2021\npaard\nKonik\njaarrond\n4\n1\n1\n\n\nWH_4\nWesthoek\nzuid\nAN789\n2021\npaard\nKonik\njaarrond\n6\n1\n1\n\n\nWH_5\nWesthoek\nnoord\nAP513\n2021\npaard\nKonik\njaarrond\n7\n1\n1\n\n\nWH_2\nWesthoek\nzuid\nG4FUGY\n2022\nrund\nSchotse Hooglander\njaarrond\n6\n1\n0\n\n\nWH_2\nWesthoek\nzuid\nHHZN2Y\n2022\nrund\nSchotse Hooglander\njaarrond\n6\n0\n0\n\n\nWH_2\nWesthoek\nzuid\nYTA4VD\n2022\nrund\nSchotse Hooglander\njaarrond\n6\n0\n0\n\n\nWH_1\nWesthoek\nzuid\nAN785\n2022\npony\nShetland\njaarrond\n5\n1\n1\n\n\nWH_3\nWesthoek\nnoord\nAN788\n2022\npaard\nKonik\njaarrond\n4\n1\n1\n\n\nWH_4\nWesthoek\nzuid\nAN789\n2022\npaard\nKonik\njaarrond\n6\n1\n1\n\n\nWH_5\nWesthoek\nnoord\nAP513\n2022\npaard\nKonik\njaarrond\n7\n1\n1\n\n\nWH_2\nWesthoek\nzuid\nG4FUGY\n2023\nrund\nSchotse Hooglander\njaarrond\n6\n0\n0\n\n\nWH_2\nWesthoek\nzuid\nZ9XTYG\n2023\nrund\nSchotse Hooglander\njaarrond\n6\n0\n0\n\n\nWH_2\nWesthoek\nzuid\nWFKXG7\n2023\nrund\nSchotse Hooglander\njaarrond\n6\n0\n0\n\n\nWH_2\nWesthoek\nzuid\nYTA4VD\n2023\nrund\nSchotse Hooglander\njaarrond\n6\n0\n0\n\n\nWH_1\nWesthoek\nzuid\nAN785\n2023\npony\nShetland\njaarrond\n4\n1\n1\n\n\nWH_3\nWesthoek\nnoord\nAN788\n2023\npaard\nKonik\njaarrond\n4\n1\n1\n\n\nWH_4\nWesthoek\nzuid\nAN789\n2023\npaard\nKonik\njaarrond\n5\n1\n1\n\n\nWH_5\nWesthoek\nnoord\nAP513\n2023\npaard\nKonik\njaarrond\n7\n1\n0\n\n\nWH_2\nWesthoek\nnoord + zuid\nA7NVDV 1100\n2024\nrund\nSchotse Hooglander\njaarrond\n10\n0\n0\n\n\nWH_2\nWesthoek\nnoord + zuid\n7GDYFX 1100\n2024\nrund\nSchotse Hooglander\njaarrond\n10\n0\n0\n\n\nWH_2\nWesthoek\nnoord + zuid\nYTA4VD 1010\n2024\nrund\nSchotse Hooglander\njaarrond\n10\n0\n0\n\n\nWH_1\nWesthoek\nnoord + zuid\nAN785\n2024\npony\nShetland\njaarrond\n4\n1\n1\n\n\nWH_3\nWesthoek\nnoord + zuid\nAN788\n2024\npaard\nKonik\njaarrond\n4\n1\n1\n\n\nWH_4\nWesthoek\nnoord + zuid\nAN789\n2024\npaard\nKonik\njaarrond\n6\n1\n1\n\n\nWH_5\nWesthoek\nnoord + zuid\nAP513\n2024\npaard\nKonik\njaarrond\n7\n0\n0\n\n\nWH_2\nWesthoek\nnoord + zuid\nR7JTEF\n2025\nrund\nSchotse Hooglander\njaarrond\n10\n1\n0\n\n\nWH_2\nWesthoek\nnoord + zuid\nP16P9G\n2025\nrund\nzeboe\njaarrond\n1\n0\nNa\n\n\nWH_6\nWesthoek\noost\nRDKJCT\n2025\nrund\nSchotse Hooglander\njaarrond\n15\n1\nNa\n\n\nWH_4\nWesthoek\nnoord + zuid\nDH973\n2025\npaard\nKonik\njaarrond\n6\n1\nNa\n\n\nWH_3\nWesthoek\nnoord + zuid\nDH974\n2025\npaard\nKonik\njaarrond\n4\n1\nNa\n\n\nWH_1\nWesthoek\nnoord + zuid\nDH972\n2025\npony\nShetland\njaarrond\n4\n1\nNa\n\n\nWH_4\nWesthoek\nnoord + zuid\nNa\n2025\npaard\nKonik\njaarrond\n?\n0\nNa\n\n\nWH_5\nWesthoek\nnoord + zuid\nNa\nNa\nNa\nNa\nNa\nNULL\nNULL\nNa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncollar positions per biotope per season/species\n\n\n\n\n\n\n\n\n\n\n\n\nyear\nBiotoopgroep\nDiersoort\nWinter\nLente\nZomer\nHerfst\nall_year\n\n\n\n\n2021\nBebouwde gebieden\npaard\n0\n0\n2\n2\n4\n\n\n2021\nBebouwde gebieden\npony\n0\n0\n6\n3\n9\n\n\n2021\nBossen en struwelen\npaard\n23\n52\n2609\n2882\n5566\n\n\n2021\nBossen en struwelen\npony\n0\n163\n11\n1139\n1313\n\n\n2021\nGraslanden\npaard\n0\n3\n7\n0\n10\n\n\n2021\nGraslanden\npony\n0\n0\n0\n2\n2\n\n\n2021\nMoerassen\npaard\n30\n77\n3734\n3187\n7028\n\n\n2021\nMoerassen\npony\n0\n0\n0\n576\n576\n\n\n2021\nStrand en duinen\npaard\n48\n40\n2248\n2031\n4367\n\n\n2021\nStrand en duinen\npony\n0\n232\n39\n541\n812\n\n\n2021\nWateren\npaard\n1\n1\n18\n13\n33\n\n\n2021\nWateren\npony\n0\n0\n0\n2\n2\n\n\n2022\nBebouwde gebieden\npaard\n1\n0\n2\n3\n6\n\n\n2022\nBebouwde gebieden\npony\n3\n0\n0\n1\n4\n\n\n2022\nBossen en struwelen\npaard\n1548\n205\n4149\n4865\n10767\n\n\n2022\nBossen en struwelen\npony\n779\n2\n0\n739\n1520\n\n\n2022\nGraslanden\npaard\n2\n2\n13\n22\n39\n\n\n2022\nMoerassen\npaard\n615\n133\n4318\n3194\n8260\n\n\n2022\nMoerassen\npony\n279\n0\n0\n448\n727\n\n\n2022\nStrand en duinen\npaard\n725\n114\n3365\n2368\n6572\n\n\n2022\nStrand en duinen\npony\n394\n0\n0\n394\n788\n\n\n2022\nWateren\npaard\n2\n1\n24\n8\n35\n\n\n2022\nWateren\npony\n1\n0\n0\n0\n1\n\n\n2023\nBebouwde gebieden\npaard\n5\n5\n3\n1\n14\n\n\n2023\nBebouwde gebieden\npony\n1\n0\n0\n0\n1\n\n\n2023\nBossen en struwelen\npaard\n3318\n4401\n3040\n2312\n13071\n\n\n2023\nBossen en struwelen\npony\n986\n21\n637\n392\n2036\n\n\n2023\nGraslanden\npaard\n4\n22\n13\n6\n45\n\n\n2023\nMoerassen\npaard\n855\n1834\n3096\n1586\n7371\n\n\n2023\nMoerassen\npony\n472\n19\n2586\n1853\n4930\n\n\n2023\nStrand en duinen\npaard\n1508\n2153\n2183\n1196\n7040\n\n\n2023\nStrand en duinen\npony\n704\n30\n7\n14\n755\n\n\n2023\nWateren\npaard\n4\n5\n15\n13\n37\n\n\n2024\nBebouwde gebieden\npaard\n2\n10\n2\n2\n16\n\n\n2024\nBebouwde gebieden\npony\n0\n4\n7\n0\n11\n\n\n2024\nBossen en struwelen\npaard\n1536\n2331\n2927\n2504\n9298\n\n\n2024\nBossen en struwelen\npony\n0\n1663\n2073\n1348\n5084\n\n\n2024\nGraslanden\npaard\n0\n0\n12\n4\n16\n\n\n2024\nGraslanden\npony\n0\n1\n0\n4\n5\n\n\n2024\nMoerassen\npaard\n320\n476\n2779\n2280\n5855\n\n\n2024\nMoerassen\npony\n0\n498\n724\n1100\n2322\n\n\n2024\nStrand en duinen\npaard\n917\n1560\n2354\n1657\n6488\n\n\n2024\nStrand en duinen\npony\n0\n1210\n1178\n847\n3235\n\n\n2024\nWateren\npaard\n0\n3\n10\n13\n26\n\n\n2024\nWateren\npony\n0\n0\n1\n2\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.22: Gebruik van biotopen.",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#ziepbeekvallei",
+    "href": "2_resultaten.html#ziepbeekvallei",
+    "title": "2  Resultaten",
+    "section": "2.12 Ziepbeekvallei",
+    "text": "2.12 Ziepbeekvallei\ntest\n\n2.12.1 Terreingebruik in Ziepbeekvallei\n\n\n\n\n\n\n\n\nFiguur 2.23: Luchtfoto van Ziepbeekvallei\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.24: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Ziepbeekvallei",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#zwinduinen",
+    "href": "2_resultaten.html#zwinduinen",
+    "title": "2  Resultaten",
+    "section": "2.13 Zwinduinen",
+    "text": "2.13 Zwinduinen\nDe Zwinduinen (222 ha, beheerd door ANB) omvatten in het noorden een reliëfrijk duingebied en in het zuiden een voormalige zandige strandvlakte (de ‘Kleine Vlakte’) met overgang naar een zone met kleiige polder. Er zijn 4 verschillende begrazingsgebieden aanwezig: zwinduinen noord, de ‘Far West’, de ‘Kleine Vlakte’ en de zone rondom de broedeilanden (zone C) met een gezamenlijke oppervlakte van 120 ha. Er grazen Schotse Hooglandrunderen, Shetland pony’s, Konikpaarden, schapen en geiten.\nDoelstelling van de begrazing is net zoals in de overige duingebieden het terugdringen van struweel en (gras)ruigte en het openhouden van ontstruweelde zones. Binnen de begraasde zone werd ongeveer 15 ha bos en struweel gekapt. Het beheer van de Kleine Vlakte werd in 2020 bijgesteld omdat werd vastgesteld dat de duingraslanden onvoldoende verschraalden onder begrazing. Sedertdien worden grote stukken bijkomend gemaaid (met nabegrazing).\n\n2.13.1 Terreingebruik in Zwinduinen\n\n\n\n\n\n\n\n\nFiguur 2.25: Luchtfoto van Zwinduinen\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.26: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Zwinduinen",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "2_resultaten.html#zwinschorren",
+    "href": "2_resultaten.html#zwinschorren",
+    "title": "2  Resultaten",
+    "section": "2.14 Zwinschorren",
+    "text": "2.14 Zwinschorren\ntest\n\n2.14.1 Terreingebruik in Zwinschorren\n\n\n\n\n\n\n\n\nFiguur 2.27: Luchtfoto van Zwinschorren\n\n\n\n\n\n\n\n\n\n\n\n\n\nFiguur 2.28: De heatmaps tonen gebruik van het gebied per jaar en per seizoen in Zwinschorren",
+    "crumbs": [
+      "Cover",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resultaten</span>"
+    ]
+  },
+  {
+    "objectID": "referenties.html",
+    "href": "referenties.html",
+    "title": "Referenties",
+    "section": "",
+    "text": "ONTWERP \n\n\n\n\n\nR Core Team (2025). R: A language and environment for statistical\ncomputing. R Foundation for Statistical Computing, Vienna, Austria. https://www.R-project.org/.\n\n\n\n\n\n  Thoonen, M. !!! Missing flandersqmd.year !!!  !!! Missing flandersqmd.doi !!!",
+    "crumbs": [
+      "Cover",
+      "Referenties"
+    ]
+  }
+]
